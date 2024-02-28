@@ -1,0 +1,21 @@
+h1{
+    visibility: hidden; /* it can hide the text */
+    color: red;
+    text-align: center;
+    text-decoration: line-through;
+    background-color: black;
+    text-emphasis-color: rgb(43, 40, 40);
+}
+
+body{
+    background-color: blue;
+}
+
+div{
+    text-align: center;
+}
+
+/*ul{
+    background-color: grey;
+    text-align: center;
+} */

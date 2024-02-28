@@ -1,0 +1,22 @@
+/*
+through the tagName can change tag properties 
+h1{
+ background-color: pink;
+ text-align: center;
+ border: 5px solid red;
+}
+
+through the className of tag wee  change a tag properties 
+
+.clHeading{
+    background-color: blue;
+    text-align: center;
+    border: 3px solid green;
+}*/
+  
+/* throught id we can change tag properties */
+#spheading{
+    background-color: brown;
+    text-align: end;
+    border: 7px solid orangered;
+}

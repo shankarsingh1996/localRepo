@@ -1,0 +1,23 @@
+#para{
+    text-align: center;
+    background-color: aqua;
+    border: 5px solid red;
+}
+/* thoruh the class i had changed on div tag
+.divClass{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    text-align: center;
+    border: solid red;
+}*/
+
+#box{
+    width: 100px;
+    height: 150px;
+    background-color: pink;
+    text-align: center;
+    color: red;
+    border: 3px solid black;
+
+}
